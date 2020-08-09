@@ -1,0 +1,16 @@
+
+.container {
+    padding: 60px 0;
+    font-size: 14px;
+    line-height: 24px;
+}
+.button-sp-area {
+    margin: 30rpx auto;
+    width: 60%;
+}
+.button-sp-area button {
+    width: 300rpx;
+    margin-top: 20rpx;
+    font-size: 14px;
+}
+
